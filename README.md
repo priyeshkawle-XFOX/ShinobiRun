@@ -174,3 +174,8 @@ Please report any bugs or issues in the project's issue tracker.
 ---
 
 **Enjoy playing ShinobiRun!** 🥷🎮
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
